@@ -12,5 +12,5 @@ This Healthcare data is used to monitor patients metrics, billing insights and h
   - In the year 2020 and 2023 a lot  of patients were admitted into hospitals
   - Artritis is the highest medical condition affecting patients
  
-    ## Screenshots
-    <img width="903" height="282" alt="Dashboard" src="https://github.com/user-attachments/assets/2dade6w1c-fc8e-4599-8d80-a36370e0500b" />
+    
+    
